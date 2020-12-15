@@ -1,4 +1,5 @@
 CNA 템플릿 페이지
+![영화구독서비스](https://user-images.githubusercontent.com/76020469/102155439-e44ea600-3ebe-11eb-9eaf-02f35f409638.jpg)
 
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
